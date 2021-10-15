@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ldeets.
-- 👀 I’m interested in generative art, web development and game development.
-- 🌱 I’m currently learning HTML and CSS
+- Favorite language is C++
+- 🌱 I’m currently learning
 
-
+Find me at www.Deti.earth
